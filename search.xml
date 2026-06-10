@@ -340,155 +340,6 @@
       </tags>
   </entry>
   <entry>
-    <title>伪海德拉（False Hydra）数据</title>
-    <url>/2026/06/05/%E6%80%AA%E7%89%A9%E6%95%B0%E6%8D%AE/%E4%BC%AA%E6%B5%B7%E5%BE%B7%E6%8B%89%EF%BC%88False%20Hydra%EF%BC%89%E6%95%B0%E6%8D%AE/</url>
-    <content><![CDATA[<details class="next-collapse"> 
-<summary>点击查看</summary> <div>
-# 伪海德拉（False Hydra）
----
-
-<h2 id="基础属性"><a href="#基础属性" class="headerlink" title="基础属性"></a>基础属性</h2><table>
-<thead>
-<tr>
-<th align="left">属性项</th>
-<th align="right">数值</th>
-<th></th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">护甲等级</td>
-<td align="right">16（天生护甲）</td>
-<td></td>
-</tr>
-<tr>
-<td align="left">生命值</td>
-<td align="right">184（16d12 + 20）</td>
-<td></td>
-</tr>
-<tr>
-<td align="left">速度</td>
-<td align="right">40尺，游泳10尺</td>
-<td></td>
-</tr>
-</tbody></table>
-<h2 id="能力值"><a href="#能力值" class="headerlink" title="能力值"></a>能力值</h2><table>
-<thead>
-<tr>
-<th align="center">STR</th>
-<th align="center">DEX</th>
-<th align="center">CON</th>
-<th align="center">INT</th>
-<th align="center">WIS</th>
-<th align="center">CHA</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">20 (+5)</td>
-<td align="center">12 (+1)</td>
-<td align="center">20 (+5)</td>
-<td align="center">14 (+2)</td>
-<td align="center">16 (+3)</td>
-<td align="center">10 (+0)</td>
-</tr>
-</tbody></table>
-<h2 id="衍生属性"><a href="#衍生属性" class="headerlink" title="衍生属性"></a>衍生属性</h2><ul>
-<li><strong>豁免检定</strong>：体质 +8，感知 +6</li>
-<li><strong>技能</strong>：特技 +4，察觉 +6，表演 +6</li>
-<li><strong>状态免疫</strong>：魅惑，恐慌</li>
-<li><strong>感官</strong>：黑暗视觉 300尺，震颤感知 60尺；被动察觉 16</li>
-<li><strong>语言</strong>：所有吞噬过的生物生前知道的语言（但不会说）</li>
-<li><strong>熟练加值</strong>：+3</li>
-</ul>
-<hr>
-<h2 id="核心特性"><a href="#核心特性" class="headerlink" title="核心特性"></a>核心特性</h2><blockquote>
-<p>[!details]- 多头（关键机制） [[伪海德拉]]至多可以拥有九个头。每当累计受到<strong>50点伤害</strong>，一个头便会尖叫着死去（<strong>DM可自由决定死去的头以控制战斗难度</strong>）。</p>
-<ul>
-<li>伪海德拉死亡时所有头同步死亡</li>
-<li>完成一次长休时，若过去24小时内曾吞噬过一个类人生物，则长出1个新头</li>
-<li>只要至少有2个头，它在感知、智力、魅力豁免中具有优势</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>[!details]- 长颈（最容易忽略的机制） 每个头通过一根可伸长<strong>300尺</strong>的灵活长颈与本体相连，头可以与本体处于不同位置，单独占据中型生物空间。</p>
-<ul>
-<li>本体移动时所有头同步移动；每个头可在伪海德拉回合内单独移动至多30尺（含垂直方向），移动会触发借机攻击</li>
-<li><strong>所有范围判定（感官、攻击、效应、擒抱、借机攻击）均以头的位置为准</strong></li>
-<li>范围效应同时命中多个头时，伪海德拉仅受一次影响</li>
-<li>长颈和头部均可被攻击或施加效果</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>[!details]- 多头反应 每多一个头，获得<strong>1次额外反应</strong>，仅可用于借机攻击。</p>
-</blockquote>
-<blockquote>
-<p>[!details]- 多头韧性 豁免失败时，可选择承受<strong>25点心灵伤害</strong>，将豁免结果改为成功。若此伤害导致失去一个头，该头会立即断裂。</p>
-</blockquote>
-<blockquote>
-<p>[!details]- 异界本质 不需要睡眠。</p>
-</blockquote>
-<blockquote>
-<p>[!warning]- 被遗忘者的安魂曲（模组核心恐怖机制） 被吞噬的死者会被所有认识他的生物<strong>彻底永久遗忘</strong>，生物会自动编造虚假记忆填补空缺：</p>
-<ul>
-<li>记忆重塑持续 <code>20 - 生物智力值</code> 分钟（最低1分钟）</li>
-<li>若生物在此期间主动尝试回忆死者，会察觉记忆异常并可留下记录</li>
-<li>重塑完成后，生物会忘记死者及记忆重塑本身</li>
-<li>仅[[心灵屏障]]（Mind Blank）及同类效应可免疫此效果</li>
-</ul>
-</blockquote>
-<hr>
-<h2 id="动作"><a href="#动作" class="headerlink" title="动作"></a>动作</h2><p><strong>多重攻击</strong>：执行总次数等于头部数量的动作，每个动作由不同的头执行，可选：啃咬、嘶啸、吞噬、<a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>。</p>
-<blockquote>
-<p>[!details]- 啃咬 近战武器攻击，+8 命中，触及5尺，单一目标。<br>命中：10（1d10 + 5）点穿刺伤害。若目标为大型或更小体型，则被该头擒抱（挣脱 DC 16）。一个头同一时间只能擒抱一个目标。</p>
-</blockquote>
-<blockquote>
-<p>[!details]- 嘶啸 以一个头为源点，15尺锥形范围内生物进行 DC 16 体质豁免。<br>失败：10（3d6）点雷鸣伤害 | 成功：半伤</p>
-</blockquote>
-<blockquote>
-<p>[!warning]- 吞噬 一个头立即吞下被其擒抱的中型及以下生物&#x2F;尸体：</p>
-<ul>
-<li>被吞噬生物陷入<strong>束缚+目盲</strong>，对体外效应获得全掩护</li>
-<li>每回合结束时受 10（1d10 + 5）点强酸伤害</li>
-<li>可消耗一个动作进行 DC 16 力量&#x2F;敏捷豁免，成功则逃脱至头附近最近空位</li>
-<li>吞噬生物的头死亡时，所有被吞噬生物会被吐出</li>
-<li>吞噬1小时内死亡的尸体或被吞噬生物死亡时，立即触发<strong>被遗忘者的安魂曲</strong>，仅[[完全复生术]]、[[祈愿术]]、[[神力干预]]可复活</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>[!danger]- <a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>（核心战斗机制） 一个头开始歌唱，歌声覆盖<strong>1里范围</strong>，持续至伪海德拉下一回合结束：</p>
-<ul>
-<li>仅魔法隔音屏障（[[沉默术]]、沉默圣居等）可阻隔</li>
-<li>受影响生物<strong>完全无法感知伪海德拉</strong>（真实视觉、盲视、震颤感知均无效），且搜索伪海德拉的检定自动失败</li>
-<li>受影响生物无法意识到歌声的存在</li>
-<li>不了解此特性的生物无法通过预言系法术获取伪海德拉的任何信息</li>
-<li>耳聋生物及心灵屏障持有者免疫此效果</li>
-</ul>
-</blockquote>
-<blockquote>
-<p>[!danger]- 多头齐啸（充能5-6） 所有头同时尖啸，每个头60尺范围内生物进行 DC 16 体质豁免。<br>失败：27（5d10）点雷鸣伤害并<strong>震慑</strong>至下一回合结束 | 成功：半伤</p>
-</blockquote>
-<hr>
-<h2 id="传奇动作"><a href="#传奇动作" class="headerlink" title="传奇动作"></a>传奇动作</h2><p>传奇动作次数：3。可在其他生物回合结束后消耗1次执行以下动作之一，回合开始时恢复全部次数。</p>
-<ul>
-<li><strong>啃咬</strong>：发动一次啃咬攻击</li>
-<li><strong>嘶啸</strong>：发动一次嘶啸攻击</li>
-</ul>
-<hr>
-<h2 id="模组专属说明"><a href="#模组专属说明" class="headerlink" title="模组专属说明"></a>模组专属说明</h2><ol>
-<li>战斗开始时默认有1个头持续执行「<a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>」以隐藏自身，当玩家占上风时可让该头加入战斗</li>
-<li>可通过调整头的数量灵活控制难度：2头（CR6）、4头（CR8）、6头（CR10）、9头（CR12）</li>
-<li>击败后尸体会迅速劣化为软泥，被遗忘的死者不会自动恢复记忆（DM可自行调整）</li>
-</ol>
-</div> 
-</details>]]></content>
-      <categories>
-        <category>资料</category>
-      </categories>
-      <tags>
-        <tag>龙与地下城</tag>
-        <tag>怪物</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>寂静挽歌 适合5-7级角色的悬疑单次冒险</title>
     <url>/2026/06/05/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>这是一个为5-7级的玩家准备的，长度6-8小时的短冒险。 </p>
@@ -929,6 +780,155 @@
       <tags>
         <tag>龙与地下城</tag>
         <tag>备团笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>伪海德拉（False Hydra）数据</title>
+    <url>/2026/06/05/%E6%80%AA%E7%89%A9%E6%95%B0%E6%8D%AE/%E4%BC%AA%E6%B5%B7%E5%BE%B7%E6%8B%89%EF%BC%88False%20Hydra%EF%BC%89%E6%95%B0%E6%8D%AE/</url>
+    <content><![CDATA[<details class="next-collapse"> 
+<summary>点击查看</summary> <div>
+# 伪海德拉（False Hydra）
+---
+
+<h2 id="基础属性"><a href="#基础属性" class="headerlink" title="基础属性"></a>基础属性</h2><table>
+<thead>
+<tr>
+<th align="left">属性项</th>
+<th align="right">数值</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">护甲等级</td>
+<td align="right">16（天生护甲）</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">生命值</td>
+<td align="right">184（16d12 + 20）</td>
+<td></td>
+</tr>
+<tr>
+<td align="left">速度</td>
+<td align="right">40尺，游泳10尺</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="能力值"><a href="#能力值" class="headerlink" title="能力值"></a>能力值</h2><table>
+<thead>
+<tr>
+<th align="center">STR</th>
+<th align="center">DEX</th>
+<th align="center">CON</th>
+<th align="center">INT</th>
+<th align="center">WIS</th>
+<th align="center">CHA</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">20 (+5)</td>
+<td align="center">12 (+1)</td>
+<td align="center">20 (+5)</td>
+<td align="center">14 (+2)</td>
+<td align="center">16 (+3)</td>
+<td align="center">10 (+0)</td>
+</tr>
+</tbody></table>
+<h2 id="衍生属性"><a href="#衍生属性" class="headerlink" title="衍生属性"></a>衍生属性</h2><ul>
+<li><strong>豁免检定</strong>：体质 +8，感知 +6</li>
+<li><strong>技能</strong>：特技 +4，察觉 +6，表演 +6</li>
+<li><strong>状态免疫</strong>：魅惑，恐慌</li>
+<li><strong>感官</strong>：黑暗视觉 300尺，震颤感知 60尺；被动察觉 16</li>
+<li><strong>语言</strong>：所有吞噬过的生物生前知道的语言（但不会说）</li>
+<li><strong>熟练加值</strong>：+3</li>
+</ul>
+<hr>
+<h2 id="核心特性"><a href="#核心特性" class="headerlink" title="核心特性"></a>核心特性</h2><blockquote>
+<p>[!details]- 多头（关键机制） [[伪海德拉]]至多可以拥有九个头。每当累计受到<strong>50点伤害</strong>，一个头便会尖叫着死去（<strong>DM可自由决定死去的头以控制战斗难度</strong>）。</p>
+<ul>
+<li>伪海德拉死亡时所有头同步死亡</li>
+<li>完成一次长休时，若过去24小时内曾吞噬过一个类人生物，则长出1个新头</li>
+<li>只要至少有2个头，它在感知、智力、魅力豁免中具有优势</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!details]- 长颈（最容易忽略的机制） 每个头通过一根可伸长<strong>300尺</strong>的灵活长颈与本体相连，头可以与本体处于不同位置，单独占据中型生物空间。</p>
+<ul>
+<li>本体移动时所有头同步移动；每个头可在伪海德拉回合内单独移动至多30尺（含垂直方向），移动会触发借机攻击</li>
+<li><strong>所有范围判定（感官、攻击、效应、擒抱、借机攻击）均以头的位置为准</strong></li>
+<li>范围效应同时命中多个头时，伪海德拉仅受一次影响</li>
+<li>长颈和头部均可被攻击或施加效果</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!details]- 多头反应 每多一个头，获得<strong>1次额外反应</strong>，仅可用于借机攻击。</p>
+</blockquote>
+<blockquote>
+<p>[!details]- 多头韧性 豁免失败时，可选择承受<strong>25点心灵伤害</strong>，将豁免结果改为成功。若此伤害导致失去一个头，该头会立即断裂。</p>
+</blockquote>
+<blockquote>
+<p>[!details]- 异界本质 不需要睡眠。</p>
+</blockquote>
+<blockquote>
+<p>[!warning]- 被遗忘者的安魂曲（模组核心恐怖机制） 被吞噬的死者会被所有认识他的生物<strong>彻底永久遗忘</strong>，生物会自动编造虚假记忆填补空缺：</p>
+<ul>
+<li>记忆重塑持续 <code>20 - 生物智力值</code> 分钟（最低1分钟）</li>
+<li>若生物在此期间主动尝试回忆死者，会察觉记忆异常并可留下记录</li>
+<li>重塑完成后，生物会忘记死者及记忆重塑本身</li>
+<li>仅[[心灵屏障]]（Mind Blank）及同类效应可免疫此效果</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="动作"><a href="#动作" class="headerlink" title="动作"></a>动作</h2><p><strong>多重攻击</strong>：执行总次数等于头部数量的动作，每个动作由不同的头执行，可选：啃咬、嘶啸、吞噬、<a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>。</p>
+<blockquote>
+<p>[!details]- 啃咬 近战武器攻击，+8 命中，触及5尺，单一目标。<br>命中：10（1d10 + 5）点穿刺伤害。若目标为大型或更小体型，则被该头擒抱（挣脱 DC 16）。一个头同一时间只能擒抱一个目标。</p>
+</blockquote>
+<blockquote>
+<p>[!details]- 嘶啸 以一个头为源点，15尺锥形范围内生物进行 DC 16 体质豁免。<br>失败：10（3d6）点雷鸣伤害 | 成功：半伤</p>
+</blockquote>
+<blockquote>
+<p>[!warning]- 吞噬 一个头立即吞下被其擒抱的中型及以下生物&#x2F;尸体：</p>
+<ul>
+<li>被吞噬生物陷入<strong>束缚+目盲</strong>，对体外效应获得全掩护</li>
+<li>每回合结束时受 10（1d10 + 5）点强酸伤害</li>
+<li>可消耗一个动作进行 DC 16 力量&#x2F;敏捷豁免，成功则逃脱至头附近最近空位</li>
+<li>吞噬生物的头死亡时，所有被吞噬生物会被吐出</li>
+<li>吞噬1小时内死亡的尸体或被吞噬生物死亡时，立即触发<strong>被遗忘者的安魂曲</strong>，仅[[完全复生术]]、[[祈愿术]]、[[神力干预]]可复活</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!danger]- <a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>（核心战斗机制） 一个头开始歌唱，歌声覆盖<strong>1里范围</strong>，持续至伪海德拉下一回合结束：</p>
+<ul>
+<li>仅魔法隔音屏障（[[沉默术]]、沉默圣居等）可阻隔</li>
+<li>受影响生物<strong>完全无法感知伪海德拉</strong>（真实视觉、盲视、震颤感知均无效），且搜索伪海德拉的检定自动失败</li>
+<li>受影响生物无法意识到歌声的存在</li>
+<li>不了解此特性的生物无法通过预言系法术获取伪海德拉的任何信息</li>
+<li>耳聋生物及心灵屏障持有者免疫此效果</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>[!danger]- 多头齐啸（充能5-6） 所有头同时尖啸，每个头60尺范围内生物进行 DC 16 体质豁免。<br>失败：27（5d10）点雷鸣伤害并<strong>震慑</strong>至下一回合结束 | 成功：半伤</p>
+</blockquote>
+<hr>
+<h2 id="传奇动作"><a href="#传奇动作" class="headerlink" title="传奇动作"></a>传奇动作</h2><p>传奇动作次数：3。可在其他生物回合结束后消耗1次执行以下动作之一，回合开始时恢复全部次数。</p>
+<ul>
+<li><strong>啃咬</strong>：发动一次啃咬攻击</li>
+<li><strong>嘶啸</strong>：发动一次嘶啸攻击</li>
+</ul>
+<hr>
+<h2 id="模组专属说明"><a href="#模组专属说明" class="headerlink" title="模组专属说明"></a>模组专属说明</h2><ol>
+<li>战斗开始时默认有1个头持续执行「<a href="_posts/%E5%AF%82%E9%9D%99%E6%8C%BD%E6%AD%8C.md">寂静挽歌</a>」以隐藏自身，当玩家占上风时可让该头加入战斗</li>
+<li>可通过调整头的数量灵活控制难度：2头（CR6）、4头（CR8）、6头（CR10）、9头（CR12）</li>
+<li>击败后尸体会迅速劣化为软泥，被遗忘的死者不会自动恢复记忆（DM可自行调整）</li>
+</ol>
+</div> 
+</details>]]></content>
+      <categories>
+        <category>资料</category>
+      </categories>
+      <tags>
+        <tag>龙与地下城</tag>
+        <tag>怪物</tag>
       </tags>
   </entry>
   <entry>
